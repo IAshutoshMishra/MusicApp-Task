@@ -1,0 +1,11 @@
+com/musicapp/BuildConfig.java
+ com.musicapp.BuildConfig
+com/musicapp/MainApplication.java
+ com.musicapp.MainApplication
+ com.musicapp.MainApplication$1
+com/musicapp/SplashActivity.java
+ com.musicapp.SplashActivity
+com/musicapp/MainActivity.java
+ com.musicapp.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

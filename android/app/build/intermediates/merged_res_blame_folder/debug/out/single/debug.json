@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_icon_round.xml.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-anydpi-v26/icon_round.xml"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_icon_round.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-xxxhdpi/icon_round.png"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_icon_foreground.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-xxxhdpi/icon_foreground.png"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_icon_foreground.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-hdpi/icon_foreground.png"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/layout_launch_screen.xml.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_icon_foreground.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-mdpi/icon_foreground.png"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_icon_round.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-hdpi/icon_round.png"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_icon_foreground.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-xhdpi/icon_foreground.png"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_icon.xml.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-anydpi-v26/icon.xml"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_icon.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_icon_foreground.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-xxhdpi/icon_foreground.png"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_icon.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_icon_round.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-mdpi/icon_round.png"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_icon.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-xhdpi/icon.png"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_icon_round.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-xhdpi/icon_round.png"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_icon_round.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-xxhdpi/icon_round.png"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_icon.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/drawable_background_splash.xml.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/drawable/background_splash.xml"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/maximess199/Desktop/maximess/musicApp/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_icon.png.flat",
+        "source": "/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/res/mipmap-xxhdpi/icon.png"
+    }
+]

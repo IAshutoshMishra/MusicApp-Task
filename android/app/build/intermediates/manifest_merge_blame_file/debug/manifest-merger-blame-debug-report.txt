@@ -1,0 +1,89 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.musicapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:6:5-77
+11-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:6:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[com.facebook.flipper:flipper:0.75.1] /home/maximess199/.gradle/caches/transforms-2/files-2.1/a8f6015f96666ab8d93bfe5b64998bc8/jetified-flipper-0.75.1/AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.75.1] /home/maximess199/.gradle/caches/transforms-2/files-2.1/a8f6015f96666ab8d93bfe5b64998bc8/jetified-flipper-0.75.1/AndroidManifest.xml:16:22-73
+14
+15    <application
+15-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:7:5-35:19
+16        android:name="com.musicapp.MainApplication"
+16-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:8:7-38
+17        android:allowBackup="true"
+17-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:12:7-33
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.1.0] /home/maximess199/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher"
+20-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:10:7-41
+21        android:label="@string/app_name"
+21-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:9:7-39
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:11:7-52
+23        android:theme="@style/AppTheme"
+23-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:13:7-38
+24        android:usesCleartextTraffic="true" >
+24-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/debug/AndroidManifest.xml:8:9-44
+25        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+25-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/debug/AndroidManifest.xml:11:9-86
+25-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/debug/AndroidManifest.xml:11:19-83
+26        <activity
+26-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:14:7-22:12
+27            android:name="com.musicapp.SplashActivity"
+27-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:15:5-35
+28            android:label="@string/app_name"
+28-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:17:5-37
+29            android:theme="@style/SplashTheme" >
+29-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:16:5-39
+30            <intent-filter>
+30-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:18:5-21:21
+31                <action android:name="android.intent.action.MAIN" />
+31-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:19:9-61
+31-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:19:17-58
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:20:9-69
+33-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:20:19-66
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:23:7-34:18
+37            android:name="com.musicapp.MainActivity"
+37-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:24:9-37
+38            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+38-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:26:9-86
+39            android:exported="true"
+39-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:29:9-32
+40            android:label="@string/app_name"
+40-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:25:9-41
+41            android:launchMode="singleTask"
+41-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:27:9-40
+42            android:windowSoftInputMode="adjustResize" >
+42-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:28:9-51
+43            <intent-filter>
+43-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:18:5-21:21
+44                <action android:name="android.intent.action.MAIN" />
+44-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:19:9-61
+44-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:19:17-58
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:20:9-69
+46-->/home/maximess199/Desktop/maximess/musicApp/android/app/src/main/AndroidManifest.xml:20:19-66
+47            </intent-filter>
+48        </activity>
+49    </application>
+50
+51</manifest>
